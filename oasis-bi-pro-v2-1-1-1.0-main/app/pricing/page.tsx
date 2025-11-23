@@ -157,7 +157,7 @@ export default function PricingPage() {
             </li>
             <li className="flex items-start">
               <Check className="w-6 h-6 mr-2 flex-shrink-0 text-green-600" />
-              <span><strong>Midtrans Compliant:</strong> Payment model yang approved oleh Midtrans</span>
+              <span><strong>Xendit Compliant:</strong> Payment model yang approved oleh Xendit</span>
             </li>
           </ul>
         </div>
@@ -206,7 +206,7 @@ export default function PricingPage() {
         {/* Payment Methods */}
         <div className="mt-16 bg-white rounded-xl shadow-lg p-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-            💳 Metode Pembayaran - Powered by Midtrans
+            💳 Metode Pembayaran - Powered by Xendit
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div>
